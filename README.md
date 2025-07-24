@@ -20,6 +20,7 @@ It’s designed to be **immediately liquid**, **freely mintable**, and will be m
 - ✅ Tradable **before** BRC2.0 goes live  
 - ✅ **Snapshot** of holders at BRC2.0 mainnet launch  
 - ✅ No need to stake — just **hold to qualify**
+- ✅ Once all 100,000 mints are completed, the inscriptions will be indexed and listed on Ordinals marketplaces like Magic Eden, making them tradable even before the official launch of BRC2.0. 
 
 ---
 
@@ -29,7 +30,7 @@ It’s designed to be **immediately liquid**, **freely mintable**, and will be m
 
 ### 🪙 Step-by-Step Mint Instructions:
 
-1. 📥 **Download the mint file** : [mint.json](https://github.com/Liquidbrc/liquid-brc/blob/main/mint.json)
+1. 📥 **Download the mint file** : [mint.json](https://raw.githubusercontent.com/Liquidbrc/liquid-brc/main/mint.json)
 
 2. 🧱 **Use any inscription tool** (like [Unisat](https://unisat.io))  
    Upload the file and inscribe it to your wallet
