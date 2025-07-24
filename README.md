@@ -68,7 +68,7 @@ It’s designed to be **immediately liquid**, **freely mintable**, and will be m
 
 | Parameter      | Value               |
 |----------------|---------------------|
-| Total Supply   | 500,000 $LIQUID     |
+| Total Supply   | 50,000,000 $LIQUID     |
 | Total Mints    | 50,000 inscriptions |
 | Tokens per Mint| 1,000 $LIQUID       |
 | Mint Cost      | **Free**            |
